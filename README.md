@@ -35,22 +35,22 @@
 ## 🚀 Mission Control: My Daily Obsessions
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" /> 
   <b>Node.js & Backend Sorcery:</b> Building servers that are faster than my morning coffee kicks in. If the API doesn't respond in 10ms, I take it personally.
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="30" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="35" /> 
   <b>AI Creative Lab:</b> Whispering sweet nothings to AI models to generate portraits so realistic they make me look better than I do in real life. 
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20in%20Lotus%20Position.png" alt="Yoga" width="30" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20in%20Lotus%20Position.png" alt="Yoga" width="35" /> 
   <b>Zen-Driven Development:</b> Practicing 🧘 Yoga to stay calm when the production server decides to go on a vacation without telling me.
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Zap.png" alt="Zap" width="30" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Zap.png" alt="Zap" width="35" /> 
   <b>Speed Learning:</b> I’m currently learning a new framework. By the time you finish reading this sentence, I’ll be ready for the certification exam. 
 </p>
 
@@ -64,8 +64,6 @@
 | **Staring at a Single Semicolon** | 30% | 😵 0% |
 | **Doing Yoga to forget that Semicolon** | 10% | 🧘 1000% |
 
-> ### ❝ I’m not a 'Senior Developer' yet, but my back pain from sitting is definitely at a Senior level. ❞
-> <p align="right"> — <i>Me, after a 12-hour Node.js marathon</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" width="25" /></p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -139,6 +137,12 @@
   </a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="www.linkedin.com/in/sagar-bodlekar-381770244">
@@ -149,12 +153,8 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
+> ### ❝ I’m not a 'Senior Developer' yet, but my back pain from sitting is definitely at a Senior level. ❞
+> <p align="right"> — <i>Me, after a 12-hour Node.js marathon</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" width="25" /></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
