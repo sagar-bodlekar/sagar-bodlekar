@@ -31,29 +31,6 @@
 | **Fixing Production Bugs** | 👨‍🚒 | *Internal Screaming.* |
 | **Daily Yoga/Focus** | 🧘‍♂️ | *Zen Mode: ON.* |
 
-
-## 🚀 Mission Control: My Daily Obsessions
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" /> 
-  <b>Node.js & Backend Sorcery:</b> Building servers that are faster than my morning coffee kicks in. If the API doesn't respond in 10ms, I take it personally.
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="35" /> 
-  <b>AI Creative Lab:</b> Whispering sweet nothings to AI models to generate portraits so realistic they make me look better than I do in real life. 
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20in%20Lotus%20Position.png" alt="Yoga" width="35" /> 
-  <b>Zen-Driven Development:</b> Practicing 🧘 Yoga to stay calm when the production server decides to go on a vacation without telling me.
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Zap.png" alt="Zap" width="35" /> 
-  <b>Speed Learning:</b> I’m currently learning a new framework. By the time you finish reading this sentence, I’ll be ready for the certification exam. 
-</p>
-
 ---
 
 ### 📊 The "Real" Breakdown
@@ -61,9 +38,10 @@
 | :--- | :--- | :--- |
 | **Writing Code** | 20% | ⚡ 100% |
 | **Naming Variables** | 40% | 🤔 5% |
-| **Staring at a Single Semicolon** | 30% | 😵 0% |
-| **Doing Yoga to forget that Semicolon** | 10% | 🧘 1000% |
+| **Staring at a Semicolon** | 30% | 😵 0% |
+| **Yoga to forget that Semicolon** | 10% | 🧘 1000% |
 
+---
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -87,8 +65,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
-
 </p>
+<p align="center"><i>"I used to think indentation was just for looks. Then I started Python. Now, one extra space gives me trust issues."</i> 🐍</p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
@@ -96,7 +74,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
 </p>
 
 <h3 align="center">Backend</h3>
@@ -104,31 +81,22 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
-
 </p>
+<p align="center"><i>Building servers faster than my morning coffee kicks in.</i> ⚡</p>
 
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
+<h3 align="center">DevOps & Tools</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />
-
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 </p>
 
 <p align="center">
@@ -145,10 +113,10 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/sagar-bodlekar-381770244">
+  <a href="https://www.linkedin.com/in/sagar-bodlekar-381770244">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="mailto:sagarbodlekar@gmail">
+  <a href="mailto:sagarbodlekar@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
@@ -159,4 +127,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
