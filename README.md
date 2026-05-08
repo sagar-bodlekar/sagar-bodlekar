@@ -8,13 +8,64 @@
 
 <img src="https://i.pinimg.com/originals/31/79/3b/31793bea5b0655dd21447c8981c81b08.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- I finished reading the documentation before your IDE even finished indexing the files.
+## 🕵️‍♂️ Investigating My Identity...
+
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRyeXF4ZzRyeXF4ZzRyeXF4ZzRyeXF4ZzRyeXF4ZzR5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPQCpC1J3l3K/giphy.gif" width="30" /> **I don't just learn; I "Copy-Paste" knowledge directly into my brain.**
+</p>
+
+- 🚀 **Quick Learner?** I finished reading the documentation before your IDE even finished indexing the files.
+- 💻 **Software Developer:** I turn coffee into code and bugs into "undocumented features."
+- 🔍 **Debugging:** I’m the lead detective in a crime movie where I am also the murderer. 
+- ⚡ **Current Status:** If it works on my machine, we’re shipping it. (Just kidding... *maybe*.)
+- 🧘 **Pro-Tip:** I code so fast, I have to wait for the internet to catch up.
+
+---
+
+### 🛠️ What I Do (Animated Essentials)
+
+| Action | Speed | Mood |
+| :--- | :---: | :--- |
+| **Learning New Tech** | 🏃‍♂️💨 | *Already done.* |
+| **Writing Clean Code** | ✨ | *Pure Artistry.* |
+| **Fixing Production Bugs** | 👨‍🚒 | *Internal Screaming.* |
+| **Daily Yoga/Focus** | 🧘‍♂️ | *Zen Mode: ON.* |
 
 
-## 🧠 My Focus Areas
-- I’m currently learning a new framework. By the time you finish reading this sentence, I’ll be ready for the certification exam.
+## 🚀 Mission Control: My Daily Obsessions
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> 
+  <b>Node.js & Backend Sorcery:</b> Building servers that are faster than my morning coffee kicks in. If the API doesn't respond in 10ms, I take it personally.
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="30" /> 
+  <b>AI Creative Lab:</b> Whispering sweet nothings to AI models to generate portraits so realistic they make me look better than I do in real life. 
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20in%20Lotus%20Position.png" alt="Yoga" width="30" /> 
+  <b>Zen-Driven Development:</b> Practicing 🧘 Yoga to stay calm when the production server decides to go on a vacation without telling me.
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Zap.png" alt="Zap" width="30" /> 
+  <b>Speed Learning:</b> I’m currently learning a new framework. By the time you finish reading this sentence, I’ll be ready for the certification exam. 
+</p>
+
+---
+
+### 📊 The "Real" Breakdown
+| Category | Time Spent | Efficiency |
+| :--- | :--- | :--- |
+| **Writing Code** | 20% | ⚡ 100% |
+| **Naming Variables** | 40% | 🤔 5% |
+| **Staring at a Single Semicolon** | 30% | 😵 0% |
+| **Doing Yoga to forget that Semicolon** | 10% | 🧘 1000% |
+
+> ### ❝ I’m not a 'Senior Developer' yet, but my back pain from sitting is definitely at a Senior level. ❞
+> <p align="right"> — <i>Me, after a 12-hour Node.js marathon</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" width="25" /></p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -104,7 +155,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
